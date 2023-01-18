@@ -1,10 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!--12435~x5GXxfB1czDC53Pfz4JvtwbF0kLd4qgAVe9XsJ1JHcuuhiJ6INzFQCk6N386cC1V-->
 <configuration>
   <startup>
     <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8" />
   </startup>
   <appSettings>
-    <add key="token" value="" />
+    <add key="token" value="123" />
   </appSettings>
   <runtime>
     <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
